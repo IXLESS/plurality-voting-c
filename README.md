@@ -1,9 +1,9 @@
-🗳️ Plurality Voting (C)
+## 🗳️ Plurality Voting (C)
 A C implementation of a plurality voting system, where each voter casts a single vote for one candidate.
 The program tallies votes and prints the winner(s). 
 If multiple candidates tie with the highest vote count, all winners are displayed.
 
-🎯 Features
+## 🎯 Features
 - Accepts candidate names via command-line arguments
 - Validates maximum number of candidates (up to 9)
 - Records votes from user input
