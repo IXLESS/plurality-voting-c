@@ -10,7 +10,7 @@ If multiple candidates tie with the highest vote count, all winners are displaye
 - Handles invalid votes gracefully
 - Supports ties by printing multiple winners
 
-🛠️ How to Compile
+## 🛠️ How to Compile
 Use `gcc` or any C compiler:
 
 ```bash
